@@ -3,9 +3,12 @@ inference_engine
 
 a simple chinese inference engine
 
-http://user.qzone.qq.com/75926462/2
+  my webpage http://user.qzone.qq.com/75926462/2
 
 online demo   :
+http://144.npulse.cn/tuiliji/index3.html
+http://144.npulse.cn/tuiliji/index2.html
+
 http://144.npulse.cn/tuiliji/
 
 在示例中：
